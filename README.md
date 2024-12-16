@@ -3,9 +3,12 @@ Proyek akhir mata kuliah Rekayasa Sistem Berbasis Pengetahuan
 
 **Proposal for Implementing SPARQL in Smart Home Systems**
 
-**Prepared by:** [Your Name]  
-**Date:** [Insert Date]  
-**Program:** Independent Study Program in Android Engineering  
+- Faiz Haq Noviandra CP 5025211132
+- Muhammad Arkan Karindra D. 5025211236
+- Muhammad Febriansyah 5025211164
+- Immanuel Pascanov Samosir 5025211257
+- Radhiyan Muhammad Hisan 5025211166
+ 
 
 ---
 
